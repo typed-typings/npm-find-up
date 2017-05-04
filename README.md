@@ -1,5 +1,7 @@
 # Typed Find Up  [![Build Status](https://travis-ci.org/types/npm-find-up.svg?branch=master)](https://travis-ci.org/types/npm-find-up)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-find-up.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`find-up`](https://github.com/sindresorhus/find-up)
 
